@@ -6,3 +6,4 @@ Sebuah jasa pengiriman memiliki aturan biaya yang bergantung pada beberapa fakto
 
 ## CODE PROGRAM
 
+<img src="ss1.png">
